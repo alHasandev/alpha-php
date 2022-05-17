@@ -1,0 +1,6 @@
+{
+    "require": {
+        "vlucas/phpdotenv": "^5.4",
+        "mpdf/mpdf": "^6.1"
+    }
+}
